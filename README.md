@@ -35,15 +35,16 @@ Audiobook
  
 6.	Screenshots 
  
-  
+  ![Dashboard Page](./Dashboard.png)
                                                     
                                                         Dashboard Page 
  
  
  
   
-                                                              
-                                                                     Drill through Page 
+ ![Drill Through Page](./DrillThrough.png)
+                                                                                          
+                                                                     Drill Through Page 
  
  
  
